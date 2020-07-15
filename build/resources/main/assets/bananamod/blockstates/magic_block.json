@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "bananamod:block/magic_block"},
+    "facing=south": {"model": "bananamod:block/magic_block", "y": 180},
+    "facing=west":  {"model": "bananamod:block/magic_block", "y": 270},
+    "facing=east":  {"model": "bananamod:block/magic_block", "y": 90}
+  }
+}

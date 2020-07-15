@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: 1.15.2 Banana Mod
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2020-07-13T12:29:38-0600
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

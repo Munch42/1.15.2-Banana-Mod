@@ -1,0 +1,23 @@
+{
+    "item.bananamod.banana_item": "Banana",
+
+    "item.bananamod.banana_sword": "Banana Sword",
+    "item.bananamod.banana_pickaxe": "Banana Pickaxe",
+    "item.bananamod.banana_shovel": "Banana Shovel",
+    "item.bananamod.banana_axe": "Banana Axe",
+    "item.bananamod.banana_hoe": "Banana Hoe",
+    "item.bananamod.banana_cutlass_wood": "Banana Cutlass",
+
+    "item.bananamod.banana_cutlass_banana": "Cronch Cutlass",
+
+    "item.bananamod.banana_helmet": "Banana Helmet",
+    "item.bananamod.banana_chestplate": "Banana Chestplate",
+    "item.bananamod.banana_leggings": "Banana Leggings",
+    "item.bananamod.banana_boots": "Banana Boots",
+
+    "block.bananamod.banana_block": "Banana Block",
+    "block.bananamod.banana_ore_block": "Banana Ore",
+    "block.bananamod.magic_block": "Banana Summoning Circle",
+
+    "itemGroup.bananatab": "Banana Mod"
+}
