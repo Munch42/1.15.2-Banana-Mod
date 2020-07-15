@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "bananamod:banana_item"
+  },
+  "result": "bananamod:banana_item",
+  "count": 9,
+  "experience": 50.0,
+  "cookingtime": 40
+}
