@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IiI",
+    "i i",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "bananamod:banana_item"
+    },
+    "i": {
+      "tag": "forge:ingots/gold"
+    }
+  },
+  "result": {
+    "item": "minecraft:dragon_egg"
+  }
+}
