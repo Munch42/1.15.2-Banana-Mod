@@ -1,8 +1,10 @@
 package codes.munch.bananamod.objects.blocks;
 
+import codes.munch.bananamod.BananaMod;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.HorizontalBlock;
+import net.minecraft.entity.Entity;
 import net.minecraft.entity.effect.LightningBoltEntity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.BlockItemUseContext;
@@ -199,5 +201,10 @@ public class MagicBlock extends Block {
         }
 
         return ActionResultType.FAIL;
+    }
+
+    @Override
+    public void onEntityCollision(BlockState state, World worldIn, BlockPos pos, Entity entityIn) {
+        // This could be used for the magic!
     }
 }
